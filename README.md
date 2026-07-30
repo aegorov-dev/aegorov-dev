@@ -73,18 +73,6 @@ Testing     │ JUnit · Mockito
 
 ---
 
-## 📈 GitHub Stats
-
-<div align="center">
-
-![Anton's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aegorov-wiley&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aegorov-wiley&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff)
-
-</div>
-
----
-
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anton-egorov-qa)
