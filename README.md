@@ -65,7 +65,7 @@ Testing     │ JUnit · Mockito
 
 <div align="center">
 
-### 👉 [View Full Resume →](https://wiley-global.atlassian.net/gateway/api/assist/rovo/v1/chat/artifacts/cloud/3d844482-04a8-4e81-98d3-15f40701fd75/media/8d543c4e-4c7e-4195-a871-ffa133ffd8f3/download)
+### 👉 [View Full Resume →](https://aegorov-wiley.github.io/aegorov-wiley/)
 
 *Available in 🇷🇺 Russian and 🇬🇧 English*
 
@@ -77,9 +77,9 @@ Testing     │ JUnit · Mockito
 
 <div align="center">
 
-![Anton's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff)
+![Anton's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aegorov-wiley&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aegorov-wiley&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff)
 
 </div>
 
@@ -87,7 +87,8 @@ Testing     │ JUnit · Mockito
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anton-egorov-qa)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/aegorov18)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:resanta.anton@gmail.com)
 
 </div>
