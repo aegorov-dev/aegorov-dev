@@ -65,7 +65,7 @@ Testing     │ JUnit · Mockito
 
 <div align="center">
 
-### 👉 [View Full Resume →](https://aegorov-wiley.github.io/aegorov-wiley/)
+### 👉 [View Full Resume →](https://aegorov-dev.github.io/aegorov-dev/)
 
 *Available in 🇷🇺 Russian and 🇬🇧 English*
 
